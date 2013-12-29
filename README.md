@@ -2,7 +2,9 @@ kommunarkivet.se
 ================
 
 Why not
+
 *Tema*
+
 Uppdateringar och anpassaningar till BizzTheme tema "Firma"
 Temat används bl.a av Burlöv kommun och aktiveras genom ett skin som kallas kommunarkivet_bootstrap.css
 Anpassningar är framförallt att anpassa menyn till grafisk profil.
